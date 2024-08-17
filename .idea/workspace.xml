@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc3af682-2824-4ed7-8f6d-8d6659ebc5f4" name="Changes" comment="Cración del proyecto, y de msvc CLiente" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DgoHc"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DgoHc/Restaurante-Daspue-Servicio.git",
+    "accountId": "30f56730-2052-4a61-870a-9175bc1a418c"
+  }
+}]]></component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2kmuKwXCRscQjRTt7jEsIAAUxoX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.MsvcClienteApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Servicios2024/Restaurante-Daspue/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc3af682-2824-4ed7-8f6d-8d6659ebc5f4" name="Changes" comment="" />
+      <created>1723901029141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723901029141</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902141639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902141639</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902187603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902187603</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902273702</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902273702</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902303772</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902303772</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902317953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902317953</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902351309</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902351309</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902413306</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902413306</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902471111</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902471111</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902514180</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902514180</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Cración del proyecto, y de msvc CLiente">
+      <option name="closed" value="true" />
+      <created>1723902559852</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723902559852</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Cración del proyecto, y de msvc CLiente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cración del proyecto, y de msvc CLiente" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
